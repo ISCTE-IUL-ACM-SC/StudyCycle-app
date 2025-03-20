@@ -1,0 +1,11 @@
+/home/datom/Projects/Flutter/chat_app/target/debug/deps/libprost_derive-8d70bd3e406f9aee.so: /home/datom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.13.5/src/lib.rs /home/datom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.13.5/src/field/mod.rs /home/datom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.13.5/src/field/group.rs /home/datom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.13.5/src/field/map.rs /home/datom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.13.5/src/field/message.rs /home/datom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.13.5/src/field/oneof.rs /home/datom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.13.5/src/field/scalar.rs
+
+/home/datom/Projects/Flutter/chat_app/target/debug/deps/prost_derive-8d70bd3e406f9aee.d: /home/datom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.13.5/src/lib.rs /home/datom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.13.5/src/field/mod.rs /home/datom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.13.5/src/field/group.rs /home/datom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.13.5/src/field/map.rs /home/datom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.13.5/src/field/message.rs /home/datom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.13.5/src/field/oneof.rs /home/datom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.13.5/src/field/scalar.rs
+
+/home/datom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.13.5/src/lib.rs:
+/home/datom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.13.5/src/field/mod.rs:
+/home/datom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.13.5/src/field/group.rs:
+/home/datom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.13.5/src/field/map.rs:
+/home/datom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.13.5/src/field/message.rs:
+/home/datom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.13.5/src/field/oneof.rs:
+/home/datom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-derive-0.13.5/src/field/scalar.rs:
