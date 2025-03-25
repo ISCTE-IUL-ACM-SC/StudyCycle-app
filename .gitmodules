@@ -1,0 +1,3 @@
+[submodule "native/hub"]
+	path = native/hub
+	url = https://github.com/Valeriooooh/iroh-chat-lib.git
